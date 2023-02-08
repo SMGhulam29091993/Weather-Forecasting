@@ -1,0 +1,4 @@
+# response = requests.get(OWM_ENDPOINT, params=weather_parameter)
+# print(response.status_code)
+# OWM_ENDPOINT = "https://api.openweathermap.org/data/3.0/onecall"
+# api_key = "1bdaa396519988d37c3997273ac95b09"
